@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>CV - Bagus Dwi Presetyo</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <main class="halaman">
+
+    <header>
+      <h1>Bagus Dwi Presetyo</h1>
+      <p class="posisi">Pelajar SMA</p>
+    </header>
+
+    <section>
+      <h2>Profil</h2>
+      <p>
+        Pelajar SMA Gunung Madu yang [sifat, misalnya disiplin dan cepat belajar].
+        Mencari kesempatan [tujuan, misalnya magang / kerja paruh waktu / beasiswa]
+        untuk mengembangkan [bidang yang diminati].
+      </p>
+    </section>
+
+    <section>
+      <h2>Pendidikan</h2>
+      <div class="item">
+        <div class="baris">
+          <h3>SMA Gunung Madu</h3>
+          <span class="tahun">2024 - 2027</span>
+        </div>
+        <p>Jurusan Teknik Pertanian</p>
+      </div>
+    </section>
+
+    <section>
+      <h2>Kontak</h2>
+      <ul class="daftar">
+        <li>081247835287</li>
+        <li>bagusdwi@gmail.com</li>
+        <li>Bedeng Gumax</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>Keahlian</h2>
+      <ul class="daftar">
+        <li>Futsal</li>
+        <li>Voli</li>
+      </ul>
+    </section>
+
+  </main>
+</body>
+</html>
